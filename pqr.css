@@ -1,0 +1,17 @@
+@charset "utf-8";
+.container-fluid .container #carouselExampleIndicators1 {
+    background-color: #092793;
+    background-image: -webkit-linear-gradient(270deg,rgba(142,130,183,1.00) 0%,rgba(11,9,43,1.00) 100%,rgba(21,54,133,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(142,130,183,1.00) 0%,rgba(11,9,43,1.00) 100%,rgba(21,54,133,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(142,130,183,1.00) 0%,rgba(11,9,43,1.00) 100%,rgba(21,54,133,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(142,130,183,1.00) 0%,rgba(11,9,43,1.00) 100.00%,rgba(21,54,133,1.00) 100.00%);
+}
+#accordion1 .card #headingOne1 {
+    background-color: #0B6463;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #0B6463;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #0B6463;
+}
